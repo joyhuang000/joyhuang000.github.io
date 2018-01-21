@@ -311,3 +311,11 @@ main{
   text-align: center;
   background-color: #f6f6f6;
 }
+
+.faq{
+  color: #333333;
+  font-size: 32px;
+  text-align: center;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
