@@ -439,9 +439,10 @@ main{
   text-align: center;
   width: 24%;
   max-height: 70px;
+  margin-top: 30px;
+  margin-bottom: 30px; 
 }
 
 .taishin{
   width: 24%;
-  max-height: 100px;
 }
