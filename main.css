@@ -186,3 +186,25 @@ main{
   border-radius: 5px;
   text-decoration: none:
 }
+
+.premium{
+  display: inline-block;
+  border: 1px solid #dadfe1;
+  border-radius: 5px;
+  height: 500px;
+  width: 28%;
+}
+
+.title01-p{
+  font-size: 36px;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+.title02-p{
+  font-size: 16px;
+  font-weight: light;
+  text-align: center;
+  padding-bottom: 40px;
+}
