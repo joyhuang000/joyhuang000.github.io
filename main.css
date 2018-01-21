@@ -191,8 +191,10 @@ main{
   display: inline-block;
   border: 1px solid #dadfe1;
   border-radius: 5px;
-  height: 500px;
+  height: 520px;
   width: 28%;
+  padding-top: 30px;
+  background-color: #33678c;
 }
 
 .title01-p{
@@ -207,4 +209,11 @@ main{
   font-weight: light;
   text-align: center;
   padding-bottom: 40px;
+}
+
+.plan-price-p{
+  color: white;
+  font-size: 45px;
+  text-align: center;
+  margin-bottom: 10px;
 }
