@@ -426,3 +426,10 @@ main{
   padding-top: 30px;
   padding-bottom: 10px;
 }
+
+.partner-logo-outer{
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
