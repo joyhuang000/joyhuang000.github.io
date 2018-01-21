@@ -382,7 +382,6 @@ main{
 .form-email-outer{
   display: inline-block;
   text-align: center;
-  margin-right: -5px;
 }
 
 .email{
@@ -393,6 +392,7 @@ main{
   border: 1px solid #3b434b;
   padding: 16px 8px;
   border-radius: 5px 0px 0px 5px;
+  margin-right: -10px;
 }
 
 .email-btn{
