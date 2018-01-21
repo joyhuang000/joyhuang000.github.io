@@ -31,3 +31,10 @@ img{
   text-align: left;
   line-height: 80px;
 }
+
+.navtop-link{
+  color: white;
+  font-size: 14px;
+  text-decoration: none;
+  padding-right: 15px;
+}
