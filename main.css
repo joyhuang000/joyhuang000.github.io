@@ -58,3 +58,52 @@ img{
   text-decoration: none;
   margin-right: 8px;
 }
+
+main{
+  display: block;
+}
+
+.site-container01{
+   max-width: 1140px;
+   margin-left: auto;
+   margin-right: auto;
+   height: 390px;
+   padding-left: 15px;
+   padding-right: 15px;
+}
+
+.all-plans{
+  color: white;
+  font-size: 36px;
+  font-weight: lighter;
+  text-align: center;
+  display: block;
+  line-height: 80px;
+  padding-top: 80px;
+}
+
+.try30days{
+  color: #adadad;
+  font-size: 26px;
+  text-align: center;
+  font-weight: lighter;
+  padding-bottom: 20px;
+}
+
+.trynow-btn-outer{
+  text-align: center;
+  padding-top: 30px;
+}
+
+.trynow-btn{
+  color: white;
+  font-size: 50px;
+  font-weight: lighter;
+  text-decoration: none;
+  background-color: #00bbcc;
+  border: 1px solid #00bbcc;
+  border-radius: 50px;
+  padding: 10px 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
