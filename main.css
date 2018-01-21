@@ -305,3 +305,9 @@ main{
   color: #666666;
   font-size: 20px;
 }
+
+.site-container04{
+  height: 600px;
+  text-align: center;
+  background-color: #f6f6f6;
+}
