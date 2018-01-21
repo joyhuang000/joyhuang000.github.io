@@ -408,8 +408,10 @@ main{
 }
 
 .go{
-  font-size: 15px;
+  font-size: 13px;
+  font-weight: 100;
   color: #01BFD0;
   text-align: left;
   text-decoration: none;
+  padding-top:20px;
 }
