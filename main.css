@@ -268,3 +268,11 @@ main{
   border-radius: 5px;
   text-decoration: none;
 }
+
+.advance{
+  display: inline-block;
+  border: 1px solid #dadfe1;
+  border-radius: 5px;
+  height: 460px;
+  width: 28%;
+}
