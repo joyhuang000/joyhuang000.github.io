@@ -219,3 +219,52 @@ main{
   text-align: center;
   margin-bottom: 10px;
 }
+
+.currency-month-p{
+  font-size: 20px;
+}
+
+.premium-price{
+  color: white;
+  font-size: 45px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.annual-pay-p{
+  color: white;
+  font-size: 14px;
+  font-weight: lighter;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.star-p{
+  color: white;
+  font-size: 14px;
+  text-align: center;
+  font-weight: lighter;
+  padding-left: 0;
+  list-style: none;
+}
+
+.list-p{
+  margin-bottom: 15px;
+}
+
+.signup-btn-outer-p{
+  text-align: center;
+  padding-top: 30px;
+}
+
+.signup-btn-p{
+  margin-left: auto;
+  margin-right: auto;
+  color:white;
+  font-size: 16px;
+  background-color: #00bbcc;
+  border: 1px solid #00bbcc;
+  padding: 15px;
+  border-radius: 5px;
+  text-decoration: none;
+}
