@@ -1,5 +1,4 @@
 .navbar{
-  position: fixed;
   height: 90px;
 }
 
@@ -9,6 +8,7 @@
 }
 
 .container{
+  position: fixed;
   max-width: 1140px;
   padding-left: 15px;
   margin-left: auto;
