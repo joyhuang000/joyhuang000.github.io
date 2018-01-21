@@ -390,7 +390,7 @@ main{
   color: #333;
   font-weight: 200;
   border: 1px solid #3b434b;
-  padding: 18px 10px;
+  padding: 25px 10px;
   border-radius: 5px 0px 0px 5px;
   margin-right: -10px;
 }
@@ -404,5 +404,5 @@ main{
   height: 48px;
   border: 1px solid #00bbcc;
   border-radius: 0px 5px 5px 0px;
-  padding: 13px 18px 15px 18px;
+  padding: 13px 18px 13px 18px;
 }
