@@ -394,3 +394,15 @@ main{
   padding: 16px 8px;
   border-radius: 5px 0px 0px 5px;
 }
+
+.email-btn{
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 400;
+  background-color: #00bbcc;
+  height: 48px;
+  border: 1px solid #00bbcc;
+  border-radius: 0px 5px 5px 0px;
+  padding: 13px 18px 15px 18px;
+}
