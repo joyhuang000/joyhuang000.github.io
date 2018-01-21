@@ -319,3 +319,8 @@ main{
   padding-top: 60px;
   padding-bottom: 60px;
 }
+
+.faq-sections-outer{
+  margin-left: auto;
+  margin-right: auto;
+}
