@@ -458,6 +458,7 @@ main{
   margin-right: auto;
 }
 
-.f-icon{
+.footericons-outer{
   display: inline-block;
+  text-align: center;
 }
