@@ -456,9 +456,10 @@ main{
   padding: 60px 0 60px 0;
   margin-left: auto;
   margin-right: auto;
+  display: inline-block;  
 }
 
-.footericons-outer{
+.f-icon{
   display: inline-block;
   text-align: center;
 }
