@@ -456,7 +456,8 @@ main{
   padding: 60px 0 60px 0;
   margin-left: auto;
   margin-right: auto;
-  display: inline-block;  
+  display: inline-block;
+  text-align: center;  
 }
 
 .f-icon{
