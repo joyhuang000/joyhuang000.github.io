@@ -446,3 +446,8 @@ main{
 .taishin{
   width: 60%;
 }
+
+.site-container-footer{
+  background-color: #2e3741;
+  height: 500px;
+}
