@@ -505,3 +505,7 @@ main{
 }
 
 
+.copyright{
+  display: inline-block;
+  color: #666666;
+}
