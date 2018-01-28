@@ -12,6 +12,7 @@
   padding-left: 15px;
   margin-left: auto;
   margin-right: auto;
+  padding-top: 20px; 
 }
 
 .logo img{
@@ -30,6 +31,7 @@ img{
   float: right;
   text-align: left;
   line-height: 80px;
+  padding-left: 50px;
 }
 
 .navtop-link{
