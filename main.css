@@ -451,3 +451,9 @@ main{
   background-color: #2e3741;
   height: 500px;
 }
+
+.footericons-outer{
+  padding: 60px 0 60px 0;
+  margin-left: auto;
+  margin-right: auto;
+}
