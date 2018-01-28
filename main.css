@@ -488,11 +488,12 @@ main{
 .footer-menu-03{
   display: inline-block;
   text-align: right;
+  padding-left: 680px;
 }
 
 .item{
   list-style: none;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 .item a{
