@@ -508,4 +508,7 @@ main{
 .copyright{
   display: inline-block;
   color: #666666;
+  margin-left: 240px;
+  margin-top: 20px;
+  font-size: 14px;
 }
